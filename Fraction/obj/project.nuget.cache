@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0uRsHV9/ppG7JrKb31DAfSxKX09lAfDz8ecFvWCCpPCMaJ2jFmYs552uTM4cKveyY6ERRWmJ6orPsfa3at1qiw==",
+  "success": true,
+  "projectFilePath": "/Users/antonkurin/Documents/EpamHomeWorks/EpamCsharpHomeworks/Fraction/Fraction.csproj",
+  "expectedPackageFiles": [
+    "/Users/antonkurin/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
+    "/Users/antonkurin/.nuget/packages/serilog.sinks.console/4.0.2-dev-00890/serilog.sinks.console.4.0.2-dev-00890.nupkg.sha512",
+    "/Users/antonkurin/.nuget/packages/serilog.sinks.file/5.0.1-dev-00947/serilog.sinks.file.5.0.1-dev-00947.nupkg.sha512"
+  ],
+  "logs": []
+}
